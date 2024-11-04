@@ -1,10 +1,12 @@
-import turtle as t #导入turtle库，并取别名为s
+import turtle as t  # 导入turtle库，并取别名为t
 
 
 def c():
     t.circle(40, 80)  # 绘制半径为40的圆，角度为80度
     t.circle(-40, 80)  # 绘制半径-40的圆，角度为80度
-if __name__=='__main__':
+
+
+if __name__ == '__main__':
     t.setup(650, 350, 200, 200)  # 设置绘图窗口的大小和位置，窗口宽 650，高 350，窗口左上角在屏幕坐标 (200, 200) 处
     t.up()  # 提起画笔
     t.fd(-300)  # 向后移动300dpi
