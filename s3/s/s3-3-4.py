@@ -5,4 +5,3 @@ while idx < len(s):
 else:
     s = "jieshu"
 print(s)
-print(idx)
