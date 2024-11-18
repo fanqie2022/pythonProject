@@ -1,6 +1,6 @@
 for s in "python":
-    if  s == "t":
+    if s == "t":
         break
-    print(s,end="")
+    print(s, end="")
 else:
     print("正常退出")

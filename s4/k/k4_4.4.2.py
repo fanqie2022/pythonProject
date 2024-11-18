@@ -1,4 +1,4 @@
-s , idx = "bit" , 0
+s, idx = "bit", 0
 while idx < len(s):
     print("循环进行中:", s[idx])
     idx += 1
