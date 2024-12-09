@@ -102,99 +102,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python.1.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.24210253172李文博.executor": "Run",
-    "Python.3.executor": "Run",
-    "Python.B2005.executor": "Run",
-    "Python.B2013.executor": "Run",
-    "Python.B2029.executor": "Run",
-    "Python.B2064.executor": "Run",
-    "Python.C1.executor": "Run",
-    "Python.P2433.executor": "Run",
-    "Python.P3954.executor": "Run",
-    "Python.P5703.executor": "Run",
-    "Python.P5704.executor": "Run",
-    "Python.P5705.executor": "Run",
-    "Python.P5706.executor": "Run",
-    "Python.P5707.executor": "Run",
-    "Python.P5708.executor": "Run",
-    "Python.c1.1.executor": "Run",
-    "Python.c1.2.executor": "Run",
-    "Python.c1.3.executor": "Run",
-    "Python.c1.4.executor": "Run",
-    "Python.c1.5.executor": "Run",
-    "Python.c1.6.executor": "Run",
-    "Python.c1.7.executor": "Run",
-    "Python.c1.8.executor": "Run",
-    "Python.c1.executor": "Run",
-    "Python.c2.executor": "Run",
-    "Python.c3 (1).executor": "Run",
-    "Python.c3.executor": "Run",
-    "Python.c4.executor": "Run",
-    "Python.c5.executor": "Run",
-    "Python.c6.executor": "Run",
-    "Python.c7.executor": "Run",
-    "Python.c8.executor": "Run",
-    "Python.c9 (1).executor": "Run",
-    "Python.c9.executor": "Run",
-    "Python.cc3.executor": "Run",
-    "Python.dx.executor": "Run",
-    "Python.get_xy.executor": "Run",
-    "Python.hanshu (1).executor": "Run",
-    "Python.jj.executor": "Run",
-    "Python.jsj.executor": "Run",
-    "Python.k4_4.4.1.executor": "Run",
-    "Python.k4_4.4.3-1.executor": "Run",
-    "Python.k5_2_3_1.executor": "Run",
-    "Python.k5_2_3_2.executor": "Run",
-    "Python.k5_3_1_1_1_1.executor": "Run",
-    "Python.k6_1_1.executor": "Run",
-    "Python.k_3_1_2.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.s1.1.executor": "Run",
-    "Python.s3-1-1.executor": "Run",
-    "Python.s3-12.executor": "Run",
-    "Python.s3-2-1.executor": "Run",
-    "Python.s3-2-2.executor": "Run",
-    "Python.s3-3-1.executor": "Run",
-    "Python.s3-3-2.executor": "Run",
-    "Python.s3-3-3.executor": "Run",
-    "Python.s3-3-4.executor": "Run",
-    "Python.w1.1.executor": "Run",
-    "Python.w1.2.executor": "Run",
-    "Python.w1.3.executor": "Run",
-    "Python.w1.4.executor": "Run",
-    "Python.w1.5.executor": "Run",
-    "Python.xunhuan.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/daima/py/py",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24210253172李文博.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B2005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B2013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B2029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B2064.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P2433.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P3954.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P5703.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P5704.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P5705.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P5706.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P5707.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P5708.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.c3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c9 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.c9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cc3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_xy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hanshu (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.jj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jsj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.k4_4.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.k4_4.4.3-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.k5_2_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.k5_2_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.k5_3_1_1_1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.k6_1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.k_3_1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s3-1-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s3-12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s3-2-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s3-2-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s3-3-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s3-3-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s3-3-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s3-3-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.w1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.w1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.w1.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.w1.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.w1.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xunhuan.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/daima/py/py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ],
-    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
-      "Markdown"
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;Markdown&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\daima\py\pythonProject" />
@@ -441,6 +441,7 @@
       <workItem from="1733127913816" duration="906000" />
       <workItem from="1733726265728" duration="869000" />
       <workItem from="1733727146692" duration="9939000" />
+      <workItem from="1733744520797" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="初始">
       <option name="closed" value="true" />
@@ -570,7 +571,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733727269226</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Signed-off-by: fanqiejiayou &lt;130282223+fanqiejiayou@users.noreply.github.com&gt;&#10;python project">
+      <option name="closed" value="true" />
+      <created>1733744552879</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1733744552879</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Signed-off-by: fanqiejiayou &lt;130282223+fanqiejiayou@users.noreply.github.com&gt;&#10;python project">
+      <option name="closed" value="true" />
+      <created>1733744663153</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1733744663153</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
