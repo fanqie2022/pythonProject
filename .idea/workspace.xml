@@ -62,10 +62,7 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;fanqie2022&quot;
-  }
+  &quot;lastFilter&quot;: {}
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -153,6 +150,7 @@
     &quot;Python.k5_2_3_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.k5_3_1_1_1_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.k6_1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.k6_1_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.k_3_1_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
@@ -207,29 +205,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.k6_1_1">
-    <configuration name="k5_2_3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/s5/k" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s5/k/k5_2_3_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="k5_2_3_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -299,6 +274,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="k6_1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/s6/k" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s6/k/k6_1_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="k_3_1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -348,10 +346,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.k6_1_1" />
+        <item itemvalue="Python.k6_1_2" />
         <item itemvalue="Python.k_3_1_2" />
         <item itemvalue="Python.k5_3_1_1_1_1" />
         <item itemvalue="Python.k5_2_3_2" />
-        <item itemvalue="Python.k5_2_3_1" />
       </list>
     </recent_temporary>
   </component>
@@ -442,6 +440,8 @@
       <workItem from="1733726265728" duration="869000" />
       <workItem from="1733727146692" duration="9939000" />
       <workItem from="1733744520797" duration="162000" />
+      <workItem from="1733744702170" duration="36000" />
+      <workItem from="1734331324497" duration="932000" />
     </task>
     <task id="LOCAL-00001" summary="初始">
       <option name="closed" value="true" />
@@ -587,7 +587,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733744663153</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Signed-off-by: fanqiejiayou &lt;130282223+fanqiejiayou@users.noreply.github.com&gt;&#10;python project">
+      <option name="closed" value="true" />
+      <created>1733744720912</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1733744720912</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -640,8 +648,8 @@
     <SUITE FILE_PATH="coverage/pythonProject$B2013.coverage" NAME="B2013 覆盖结果" MODIFIED="1726303854249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luogu" />
     <SUITE FILE_PATH="coverage/pythonProject$c1_2.coverage" NAME="c1.2 覆盖结果" MODIFIED="1726295210489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s1" />
     <SUITE FILE_PATH="coverage/pythonProject$P2433.coverage" NAME="P2433 覆盖结果" MODIFIED="1728491954749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luogu" />
-    <SUITE FILE_PATH="coverage/pythonProject$c5.coverage" NAME="c5 覆盖结果" MODIFIED="1728887923091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2/c" />
     <SUITE FILE_PATH="coverage/pythonProject$c8.coverage" NAME="c8 覆盖结果" MODIFIED="1732332969395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s3/zy" />
+    <SUITE FILE_PATH="coverage/pythonProject$c5.coverage" NAME="c5 覆盖结果" MODIFIED="1728887923091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2/c" />
     <SUITE FILE_PATH="coverage/pythonProject$s3_12.coverage" NAME="s3-12 覆盖结果" MODIFIED="1729501866684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s3/s" />
     <SUITE FILE_PATH="coverage/pythonProject$k4_4_4_3_1.coverage" NAME="k4_4.4.3-1 覆盖结果" MODIFIED="1731914507854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s4/k" />
     <SUITE FILE_PATH="coverage/pythonProject$w1_1.coverage" NAME="w1.1 覆盖结果" MODIFIED="1726294485174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s1" />
@@ -651,6 +659,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$k5_3_1_1_1_1.coverage" NAME="k5_3_1_1_1_1 覆盖结果" MODIFIED="1733731802557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5/k" />
     <SUITE FILE_PATH="coverage/pythonProject$c2.coverage" NAME="c2 覆盖结果" MODIFIED="1726469767520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2/c" />
     <SUITE FILE_PATH="coverage/pythonProject$s3_2_2.coverage" NAME="s3-2-2 覆盖结果" MODIFIED="1730704565819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s3/s" />
+    <SUITE FILE_PATH="coverage/pythonProject$k6_1_2.coverage" NAME="k6_1_2 覆盖结果" MODIFIED="1734331691092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s6/k" />
     <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1725804085059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$s3_1_1.coverage" NAME="s3-1-1 覆盖结果" MODIFIED="1730100745775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s3/s" />
     <SUITE FILE_PATH="coverage/pythonProject$P5705.coverage" NAME="P5705 覆盖结果" MODIFIED="1728464438358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luogu" />
@@ -692,7 +701,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$c1_6.coverage" NAME="c1.6 覆盖结果" MODIFIED="1726295564372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s1" />
     <SUITE FILE_PATH="coverage/pythonProject$w1_5.coverage" NAME="w1.5 覆盖结果" MODIFIED="1726294968502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s1" />
     <SUITE FILE_PATH="coverage/pythonProject$P5706.coverage" NAME="P5706 覆盖结果" MODIFIED="1728464855080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luogu" />
-    <SUITE FILE_PATH="coverage/pythonProject$k6_1_1.coverage" NAME="k6_1_1 覆盖结果" MODIFIED="1733735834046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s6/k" />
+    <SUITE FILE_PATH="coverage/pythonProject$k6_1_1.coverage" NAME="k6_1_1 覆盖结果" MODIFIED="1734331697852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s6/k" />
     <SUITE FILE_PATH="coverage/pythonProject$c1_7.coverage" NAME="c1.7 覆盖结果" MODIFIED="1726295790507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s1" />
     <SUITE FILE_PATH="coverage/pythonProject$1.coverage" NAME="1 覆盖结果" MODIFIED="1726298217301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s1/k" />
     <SUITE FILE_PATH="coverage/pythonProject$c6.coverage" NAME="c6 覆盖结果" MODIFIED="1728887982040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2/c" />
